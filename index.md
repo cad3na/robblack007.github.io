@@ -77,4 +77,4 @@ Tengo conocimiento avanzado de software de uso general
 * Microsoft PowerPoint
 * Microsoft Access
 
-Si deseas ponerte en contacto conmigo, lo puedes hacer al correo robblack00_7@hotmail.com.
+Si deseas ponerte en contacto conmigo, lo puedes hacer al correo [robblack00_7@hotmail.com](mailto:robblack00_7@hotmail.com).
