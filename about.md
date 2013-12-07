@@ -1,85 +1,84 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Acerca de mí
+title: About Me
 tags: [bio, cv]
 modified: 2013-11-23
 image:
   feature: mandel.png
-  credit: Roberto Cadena Vega y IPython
+  credit: Roberto Cadena Vega and IPython
 ---
 
-*Atención* 
+*Attention* 
 
-Si eres de las personas que les gusta leer solo los datos duros e importantes tal vez te interese mas leer [esto]({{ site.url }}/assets/CV.pdf).
+If you're into that kind of stuff, perhaps you'd like to see my CV [here]({{ site.url }}/assets/CV-en.pdf).
 
-# Estudios Profesionales
+# Professional Studies
 
-Soy un Ingeniero en Mecatrónica egresado de la Universidad Tecnológica de México, Campus Cuitlahuac en agosto del 2012.
+I'm a mechatronic engineer from Universidad Tecnológica de México, Campus Cuitlahuac and I graduated in August, 2012.
 
-También estudié un bachillerato tecnológico en el Centro de Estudios Científicos y Tecnológicos "Juan de Dios Bátiz Paredes" con la especialidad de Técnico en Maquinas con Sistemas Automatizados; de esta institución egresé en diciembre del 2005.
+I also obtained a Technological Bachelor Degree from Centro de Estudios Cientificos y Tecnológicos "Juan de Dios Batiz Paredes" with the specialty of Automated Systems Machinery Technician and I graduated in December, 2005.
     
-# Experiencia Profesional
+# Work Experience
 
-## Trabajo Actual
+## Current Employment
 
-Actualmente trabajo en el Centro de Apoyo y Desarrollo Estudiantil de la UNITEC Campus Marina, donde desarrollo las funciones de asesor académico en las materias de Matemáticas, Física e Informática a nivel medio superior.
+I'm currently working in Centro de Apoyo y Desarrollo Estudiantil from UNITEC Campus Marina, where I serve the functions of academic adviser in Physics, Mathematics and Informatics at High school level.
 
-## Referencia inmediata
+## Immediate Reference
 
-Como requisito para mi titulación realicé mi servicio social en el Centro de Apoyo y Desarrollo Estudiantil de la UNITEC Campus Cuitlahuac de septiembre de 2011 a marzo de 2012 desarrollando aplicaciones para la captura de pruebas psicopedagogicas y de orientación vocacional, así como asesor académico en las materias de Física, Matemáticas, Análisis de Circuitos Eléctricos, etc.
+As a requisite for my graduation process I performed social services in Centro de Apoyo y Desarrollo Estudiantil from UNITEC Campus Cuitlahuac, from September, 2011 to March, 2012; developing applications for phycopedagogic and vocation advising test digitalizing, as well as serving functions of academic adviser in Physics, Mathematics, Electric Circuits Analysis, etc.
 
-Un logro obtenido en este desarrollo fue la reducción de los tiempos de entrega de resultados de las pruebas en un 30%.
+An accomplishment obtained during this period was the reduction of times of delivery for test results meanly in 30%.
 
-## Referencia pasada
+## Past Reference
 
-Previo a esto, trabajé en la compañía Construcciones LEMA, S.A. de C.V. de agosto de 2004 a junio de 2011 en donde estuve con el puesto de Técnico Analista de Precios Unitarios. En este puesto desarrollé presupuestos a partir de las mediciones tomadas en obra y los precios observados en el mercado. En los casos en que los precios no fueron observables en el mercado, se desarrollaron precios unitarios extraordinarios.
+Prior to that, I worked in Construcciones LEMA, S.A. de C.V. from August, 2004 to June, 2011; as Unit Costs Analyst. In that position I developed budgets from measures in site and the prices observed in the market. When the prices in the market were not observable, new unit costs were developed.
 
-Un logro obtenido en este desarrollo fue la reducción de los tiempos de entrega de presupuestos en un 10%, así como de errores humanos debido al desarrollo de aplicaciones informáticas.
+An accomplishment obtained during this period was the reduction of times of delivery meanly in 10%, as well as human errors due to the development of software.
 
-# Idiomas
+# Language Skills
 
-Poseo un conocimiento avanzado del idioma Ingles, el cual me permite comunicarme perfectamente de manera oral o escrita con personas que conozcan el idioma (incluso no nativamente).
+My native language is Spanish and I have an advanced knowledge of the English language, which allows me to communicate perfectly, in any way, with people who knows the language (even non-natively).
 
-# Conocimientos Adicionales
+# Additional Skills
 
-Sobra decir que conozco el flujo de trabajo en git, y un poco de desarrollo en tecnologias web.
+Needless to say that I know the work flow with git, and I have some knowledge about web development.
 
-Tengo conocimiento avanzado en los lenguajes:
+I have advanced knowledge in the following programming languages:
 
 * C/C++
 * Python/IPython
 * Matlab/Octave
 * Wolfram Mathematica
 
-Tengo conocimiento intermedio en los lenguajes:
+I have intermediate knowledge in the following programming languages:
 
-* Ensamblador
+* Assembler
 * Processing
 
-Tengo conocimiento intermedio de los sistemas de composición tipográfica:
+I have intermediate knowledge in the following typographic systems:
 
 * LaTeX
 * Markdown
 * reStructuredText
 
-Tengo conocimiento avanzado en software de diseño mecánico:
+I have advanced knowledge in the following mechanical design software:
 
 * Autodesk AutoCAD
 * Autodesk Inventor
 * Siemens NX
 
-Tengo conocimiento intermedio en los sistemas de desarrollo de automatización con PLC de:
+I have intermediate knowledge in the following automation development systems with PLC:
 
 * FESTO
 * Siemens
 * Allen Bradley
 
-Tengo conocimiento avanzado de software de uso general 
+I have advanced knowledge in the following general use software:
 
 * Microsoft Excel
 * Microsoft Word
 * Microsoft PowerPoint
 * Microsoft Access
-
-Si deseas ponerte en contacto conmigo, lo puedes hacer al correo [robblack00_7@hotmail.com](mailto:robblack00_7@hotmail.com), o en los links del final de pagina.
+If you wish to contact me you can do it, through this email [robblack00_7@hotmail.com](mailto:robblack00_7@hotmail.com), or with any of the links in the end of the page.
