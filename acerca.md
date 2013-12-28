@@ -18,6 +18,13 @@ Si eres de las personas que les gusta leer solo los datos duros e importantes ta
 Soy un Ingeniero en Mecatrónica egresado de la Universidad Tecnológica de México, Campus Cuitlahuac en agosto del 2012.
 
 También estudié un bachillerato tecnológico en el Centro de Estudios Científicos y Tecnológicos "Juan de Dios Bátiz Paredes" con la especialidad de Técnico en Maquinas con Sistemas Automatizados; de esta institución egresé en diciembre del 2005.
+
+# Estudios adicionales
+
+De las mejores cosas en la vida es aprender cosas nuevas, aqui hay una pequeña lista de los cursos por internet de los que tengo certificado:
+
+* [Control of Mobile Robots]({{ site.url }}/assets/cmr.pdf).
+* [Modelling Engineered Systems]({{ site.url }}/assets/mes.pdf).
     
 # Experiencia Profesional
 

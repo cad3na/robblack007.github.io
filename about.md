@@ -18,7 +18,14 @@ If you're into that kind of stuff, perhaps you'd like to see my CV [here]({{ sit
 I'm a mechatronic engineer from Universidad Tecnológica de México, Campus Cuitlahuac and I graduated in August, 2012.
 
 I also obtained a Technological Bachelor Degree from Centro de Estudios Cientificos y Tecnológicos "Juan de Dios Batiz Paredes" with the specialty of Automated Systems Machinery Technician and I graduated in December, 2005.
-    
+
+# Additional Studies
+
+One of the better things in life is to learn new things, here's a list of the online courses from which I have certificate:
+
+* [Control of Mobile Robots]({{ site.url }}/assets/cmr.pdf).
+* [Modelling Engineered Systems]({{ site.url }}/assets/mes.pdf).
+
 # Work Experience
 
 ## Current Employment
