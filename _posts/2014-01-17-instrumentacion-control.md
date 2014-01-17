@@ -4,7 +4,7 @@ layout: post
 category: articles
 tags: [clases, practicas]
 image: 
-  feature: mandel2.png
+  feature: mandel4.png
   credit: Roberto Cadena Vega y IPython
 comments: true
 ---
