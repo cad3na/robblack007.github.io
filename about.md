@@ -32,6 +32,8 @@ One of the better things in life is to learn new things, here's a list of the on
 
 I'm currently working in Centro de Apoyo y Desarrollo Estudiantil from UNITEC Campus Marina, where I serve the functions of academic adviser in Physics, Mathematics and Informatics at High school level.
 
+I also teach at UNITEC Campus Cuitlahuac the courses of Industrial Robotics, Numerical Analysis and Instrumentation and Control.
+
 ## Immediate Reference
 
 As a requisite for my graduation process I performed social services in Centro de Apoyo y Desarrollo Estudiantil from UNITEC Campus Cuitlahuac, from September, 2011 to March, 2012; developing applications for phycopedagogic and vocation advising test digitalizing, as well as serving functions of academic adviser in Physics, Mathematics, Electric Circuits Analysis, etc.

@@ -32,6 +32,8 @@ De las mejores cosas en la vida es aprender cosas nuevas, aqui hay una pequeña 
 
 Actualmente trabajo en el Centro de Apoyo y Desarrollo Estudiantil de la UNITEC Campus Marina, donde desarrollo las funciones de asesor académico en las materias de Matemáticas, Física e Informática a nivel medio superior.
 
+Tambien doy clases a nivel licenciatura en la UNITEC Campus Cuitlahuac en las materias de Robótica Industrial, Métodos Numéricos e Instrumentación y Control.
+
 ## Referencia inmediata
 
 Como requisito para mi titulación realicé mi servicio social en el Centro de Apoyo y Desarrollo Estudiantil de la UNITEC Campus Cuitlahuac de septiembre de 2011 a marzo de 2012 desarrollando aplicaciones para la captura de pruebas psicopedagogicas y de orientación vocacional, así como asesor académico en las materias de Física, Matemáticas, Análisis de Circuitos Eléctricos, etc.
