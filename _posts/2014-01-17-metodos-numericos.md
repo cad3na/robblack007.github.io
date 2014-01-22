@@ -11,7 +11,7 @@ comments: true
 
 Esta página es tan solo una referencia para encontrar recursos de la clase de Métodos Numéricos.
 
-El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-metodos-numericos). En el encontrarás los apuntes de la clase, así como las prácticas a desarrollar durante el cuatrimestre.
+El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-metodos-numericos). En el encontrarás las prácticas a desarrollar durante el cuatrimestre.
 
 Las fechas tentativas para la realización de prácticas son:
 
