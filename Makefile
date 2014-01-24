@@ -33,11 +33,11 @@ new:
 	echo "title: $(TOPIC)" >> $(FILE)
 	echo "layout: post" >> $(FILE)
 	echo "category: articles" >> $(FILE)
-	echo "tags: [tag1, tag2]"
-	echo "image:"
-	echo "  feature: file.png"
-	echo "  credit: Roberto Cadena Vega"
-	echo "comments: true"
+	echo "tags: [tag1, tag2]" >> $(FILE)
+	echo "image:" >> $(FILE)
+	echo "  feature: file.png" >> $(FILE)
+	echo "  credit: Roberto Cadena Vega" >> $(FILE)
+	echo "comments: true" >> $(FILE)
 	echo "---" >> $(FILE)
 	open $(FILE)
 
