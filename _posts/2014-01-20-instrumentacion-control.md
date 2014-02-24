@@ -23,7 +23,7 @@ Las prácticas por realizar son:
 
 4. Medición de variables físicas II - Jueves 27 de febrero de 2014.
 5. Actuación I - Jueves 13 de marzo de 2014.
-6. Actuacion II - Jueves 27 de marzo de 2014.
+6. Actuación II - Jueves 27 de marzo de 2014.
 7. Control de sistemas eléctricos - Jueves 3 de abril de 2014.
 8. Conclusión de prácticas - Jueves 10 de abril de 2014.
 
