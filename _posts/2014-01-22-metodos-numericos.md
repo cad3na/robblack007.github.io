@@ -18,12 +18,12 @@ Las prácticas ya realizadas son:
 1. Métodos de intervalo - Sábado 8 de febrero de 2014.
 2. Métodos de intervalo - Sábado 15 de febrero de 2014.
 3. Métodos de punto fijo I - Sábado 22 de febrero de 2014.
+4. Métodos de punto fijo I - Sábado 22 de marzo de 2014.
+5. Sistemas de ecuaciones lineales - Sábado 29 de marzo de 2014.
 
 Las prácticas por realizar son:
 
-4. Sistemas de ecuaciones lineales - Sábado 22 de marzo de 2014.
-5. Interpolación - Sábado 29 de marzo de 2014.
-6. Derivación e integración numérica - Sábado 5 de abril de 2014.
-7. Ecuaciones diferenciales - Sábado 12 de abril de 2014.
+6. Interpolación - Sábado 5 de abril de 2014.
+7. Derivación e integración numérica - Sábado 12 de abril de 2014.
 
 La entrega de prácticas se hará una clase después de la conclusión de prácticas.
