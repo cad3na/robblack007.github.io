@@ -20,10 +20,11 @@ Las prácticas ya realizadas son:
 3. Medición de variables físicas I - Jueves 20 de febrero de 2014.
 4. Medición de variables físicas II - Jueves 27 de febrero de 2014.
 5. Actuación I - Jueves 13 de marzo de 2014.
-
-Las prácticas por realizar son:
-
 6. Actuación II - Jueves 27 de marzo de 2014.
 7. Conclusión de prácticas - Jueves 10 de abril de 2014.
 
 La entrega del reporte de las prácticas se hará una clase después de la conclusión de prácticas.
+
+---
+
+Esta clase ha terminado, espero que se hayan divertido en esta clase y felices 2 semanas de vacaciones.
