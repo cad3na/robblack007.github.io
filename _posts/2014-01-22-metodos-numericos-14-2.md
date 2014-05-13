@@ -1,5 +1,5 @@
 ---
-title: Métodos Numéricos
+title: Métodos Numéricos Ciclo 14-2
 layout: post
 category: articles
 tags: [clases, practicas]

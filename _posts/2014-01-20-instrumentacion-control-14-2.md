@@ -1,5 +1,5 @@
 ---
-title: Instrumentación y Control
+title: Instrumentación y Control Ciclo 14-2
 layout: post
 category: articles
 tags: [clases, practicas]
