@@ -9,10 +9,6 @@ image:
   credit: Roberto Cadena Vega y IPython
 ---
 
-*Atención* 
-
-Si eres de las personas que les gusta leer solo los datos duros e importantes tal vez te interese mas leer [esto]({{ site.url }}/assets/CV.pdf).
-
 # Estudios Profesionales
 
 Soy un Ingeniero en Mecatrónica egresado de la Universidad Tecnológica de México, Campus Cuitlahuac en agosto del 2012.
@@ -90,5 +86,3 @@ Tengo conocimiento avanzado de software de uso general
 * Microsoft Word
 * Microsoft PowerPoint
 * Microsoft Access
-
-Si deseas ponerte en contacto conmigo, lo puedes hacer al correo [robblack00_7@hotmail.com](mailto:robblack00_7@hotmail.com), o en los links del final de pagina.

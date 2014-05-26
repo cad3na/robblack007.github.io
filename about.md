@@ -9,10 +9,6 @@ image:
   credit: Roberto Cadena Vega and IPython
 ---
 
-*Attention* 
-
-If you're into that kind of stuff, perhaps you'd like to see my CV [here]({{ site.url }}/assets/CV-en.pdf).
-
 # Professional Studies
 
 I'm a mechatronic engineer from Universidad Tecnológica de México, Campus Cuitlahuac and I graduated in August, 2012.
@@ -90,4 +86,3 @@ I have advanced knowledge in the following general use software:
 * Microsoft Word
 * Microsoft PowerPoint
 * Microsoft Access
-If you wish to contact me you can do it, through this email [robblack00_7@hotmail.com](mailto:robblack00_7@hotmail.com), or with any of the links in the end of the page.
