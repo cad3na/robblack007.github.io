@@ -26,6 +26,8 @@ Las prácticas a realizar durante el cuatrimestre son:
 
 Puedes descargar el PDF con la especificación de la práctica haciendo clic en el nombre de cada práctica, o puedes descargar el paquete completo [aquí](https://github.com/robblack007/clase-instrumentacion-control/archive/v1.0.zip) (por el momento esta desactualizado).
 
+Un ejemplo de reporte de práctica lo puedes encontrar [aquí](https://github.com/robblack007/clase-instrumentacion-control/blob/master/Practicas/PDF's/EjemploReporte.pdf?raw=true)
+
 Si lo deseas puedes descargar las versiones amigables a lectores de libro o iPad [aquí](https://github.com/robblack007/clase-instrumentacion-control/archive/ebook1.0.zip) (por el momento esta desactualizado). 
 
 La entrega del reporte de las prácticas se hará una clase después de la conclusión de prácticas.
