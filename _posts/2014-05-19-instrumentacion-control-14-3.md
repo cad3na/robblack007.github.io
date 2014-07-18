@@ -28,7 +28,7 @@ Puedes descargar el PDF con la especificación de la práctica haciendo clic en 
 
 Un ejemplo de reporte de práctica lo puedes encontrar [aquí](https://github.com/robblack007/clase-instrumentacion-control/blob/master/Practicas/PDF's/EjemploReporte.pdf?raw=true)
 
-Si lo deseas puedes descargar las versiones amigables a lectores de libro o iPad [aquí](https://github.com/robblack007/clase-instrumentacion-control/archive/ebook2.0.zip) (por el momento esta desactualizado).
+Si lo deseas puedes descargar las versiones amigables a lectores de libro o iPad [aquí](https://github.com/robblack007/clase-instrumentacion-control/archive/ebook2.0.zip).
 
 La entrega del reporte de las prácticas se hará una clase después de la conclusión de prácticas.
 
