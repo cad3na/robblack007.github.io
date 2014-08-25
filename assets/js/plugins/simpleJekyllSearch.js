@@ -12,13 +12,13 @@
             jsonFormat      : 'title,category,desc,url,date,shortdate',
             template        : '<a href="{url}" title="{title}">{title}</a>',
             searchResults   : '.results',
-            searchResultsTitle   : '<h4>Search results</h4>',
+            searchResultsTitle   : '<h4>Resultados de la busqueda</h4>',
             limit           : '10',
-            noResults       : '<p>Oh shucks<br/><small>Nothing found :(</small></p>'
+            noResults       : '<p>Oh diablos!<br/><small>No se ha encontrado nada :(</small></p>'
         }, options);
 
         var properties = settings.jsonFormat.split(',');
-        
+
         var jsonData = [],
             origThis = this,
             searchResults = $(settings.searchResults);

@@ -1,4 +1,5 @@
 ---
+sitemap: false
 ---
 [
 	{% for post in site.posts %}
@@ -7,7 +8,7 @@
 		  "category"   : "{{ post.category }}",
 		  "url"        : "{{ site.url }}{{ post.url }}",
 		  "date"       : "{{ post.date }}",
-		  "shortdate"  : "{{ post.date | date: '%d - %m - %y' }}"
+		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}"
 		} {% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
 ]
