@@ -17,6 +17,7 @@ GEM
     execjs (2.2.1)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
+    ffi (1.9.3-x86-mingw32)
     html-proofer (1.2.1)
       colored (~> 1.2)
       mercenary (~> 0.3.2)
@@ -57,6 +58,8 @@ GEM
     mini_portile (0.6.0)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
+    nokogiri (1.6.3.1-x86-mingw32)
+      mini_portile (= 0.6.0)
     octopress (3.0.0.rc.14)
       jekyll (~> 2.0)
       mercenary (~> 0.3.2)
@@ -80,10 +83,12 @@ GEM
     typhoeus (0.6.9)
       ethon (>= 0.7.1)
     yajl-ruby (1.1.0)
+    yajl-ruby (1.1.0-x86-mingw32)
     yell (2.0.4)
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   html-proofer
