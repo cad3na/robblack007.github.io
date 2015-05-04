@@ -1,53 +1,70 @@
-# Site wide configuration
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://robblack007.github.io" # the base hostname & protocol for your site
 
-title: robblack007
-locale: es_MX
-description: El blog de un ingeniero en Mecatrónica.
-logo: site-logo.png
-search: true
-url:
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: robblack00_7
+  avatar: site-logo.png
+  gravatar: 6050c8ed0700c93d44d392d6397dc55b # Email MD5 hash
+  description: "El blog de un ingeniero en mecatrónica" # used by search engines
 
+  # Header and footer text
+  header_text: >
+     <h1>Merece lo que sueñas.</h1>
+     
+     <p class="meta">Octavio Paz</p>
+  header_text_feature_image: img/mandel.png
+  footer_text: >
+   Hecho con <a href="http://jekyllrb.com">Jekyll</a> y el tema <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>.
 
-# Jekyll configuration
+  # Icons
+  rss: true
+  email_address: "robblack00_7@hotmail.com" # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: "robblack007"
+  flickr:
+  github: "robblack007"
+  google_plus: +RobertoCadenaVega
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud: roberto-cadena-vega
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "robblack00_7"
+  wordpress:
+  youtube: robblack0000007
 
-permalink:   /:categories/:title/
-markdown:    kramdown
+  # Scripts
+  google_analytics: UA-47826272-1 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: robblack007
+  katex: false
+  mathjax: true
+
+  # Localization strings
+  str_follow_on: "Mira, estoy en"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Correo electrónico"
+  str_next: "Siguiente"
+  str_prev: "Anterior"
+  str_continue_reading: "Continúa leyendo..."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Makefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Site owner
-owner:
-  name: Roberto Cadena Vega
-  avatar: bio-photo.jpg
-  email: robblack00_7@hotmail.com
-  disqus-shortname: robblack007
-  twitter: robblack00_7
-  facebook: robblack007
-  github: robblack007
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  google:
-    plus: #username
-    analytics: UA-47826272-1
-    verify:    "tY4kjuWTQFnWNtzC4XOPR-d6CWNmFZvSHb1AhEJegxk"
-    ad-client:
-    ad-slot:
-  bing-verify:
+  style: :compressed

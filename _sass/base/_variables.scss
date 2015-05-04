@@ -1,0 +1,39 @@
+// Tipografia
+$text-font: 'Garamond', Palatino, Times, serif;
+$head-font: 'Lato', Helvetica, Arial, sans-serif;
+$code-font: 'Consolas', 'Inconsolata', 'Andale Mono', monospace;
+$font-size: 1.25em;
+$code-size: 0.8em;
+
+// Espaciado
+$padding-large:  20%;
+$padding-small:   5%;
+$padding-x-small: 3%;
+
+// Colores basicos
+$rojo:                    #CD2305;
+$rosa:                    #F0CFCF;
+$morado:                  #4F3882;
+$blanco:                     #fff;
+$gris:                    #383838;
+
+// Colores del sitio
+$brand-color:             $blanco;
+$background-color:        $blanco;
+$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+
+// Colores de la tipografia
+$text-color:      $gris;
+$link-color:    $morado;
+$selection-color: $rosa; // visible when highlighting text
+
+// Color de cabecera
+$header-link-color: $gris;
+
+// Color en imagen principal
+$feature-image-text-color: $rojo;
+$feature-image-size:        auto; // options include "cover", "contain", "auto"
+
+// Color en titulo
+$header-desc-background-color: $rosa;
+$header-desc-text-color:       $rojo;

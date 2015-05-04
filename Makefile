@@ -18,15 +18,18 @@ clean:
 	rm -rf _site/*
 
 build: clean
-	bundle exec jekyll build
+	jekyll build
 	chmod -R 755 _site/*
 	terminal-notifier -message "Blog built." -title $(SITE) -sound default
 
 watch: clean
-	bundle exec jekyll serve --watch
+	jekyll serve --watch
+
+drafts: clean
+	jekyll serve --watch --drafts
 
 review: clean
-	bundle exec jekyll serve
+	jekyll serve --no-watch --drafts
 
 new:
 	echo "---" >> $(FILE)
@@ -34,9 +37,7 @@ new:
 	echo "layout: post" >> $(FILE)
 	echo "category: articles" >> $(FILE)
 	echo "tags: [tag1, tag2]" >> $(FILE)
-	echo "image:" >> $(FILE)
-	echo "  feature: file.png" >> $(FILE)
-	echo "  credit: Roberto Cadena Vega" >> $(FILE)
+	echo "feature-img: img/file.png" >> $(FILE)
 	echo "comments: true" >> $(FILE)
 	echo "---" >> $(FILE)
 	open $(FILE)
