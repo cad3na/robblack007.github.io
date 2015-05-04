@@ -3,7 +3,7 @@ title: Carro Pendulo
 layout: post
 category: articles
 tags: [ipython, notebook]
-feature-img: img/carropendulo.PNG
+feature-img: "img/carropendulo.PNG"
 comments: true
 ---
 
