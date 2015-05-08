@@ -7,8 +7,6 @@ feature-img: "img/filtro-suavizado_7_0.png"
 comments: true
 ---
 
-# Filtro de suavizado
-
 ## El problema
 
 Queremos recuperar una imagen corrupta, es decir, una imagen que a traves de un proceso desconocido, perdió información.
@@ -16,7 +14,6 @@ Queremos recuperar una imagen corrupta, es decir, una imagen que a traves de un 
 Pero como te puedes imaginar la información simplemente no es recuperable de la nada, en esta ocasión intentaremos recuperar algo de la definición de la imagen tratando de minimizar los bordes visibles en imagen, es decir suavizarla.
 
 Empecemos primero por mostrar nuestra imagen:
-
 
 {% highlight python %}
 # Se importan funciones para graficar y se inicializa con graficas en linea

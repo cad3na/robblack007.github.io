@@ -7,8 +7,6 @@ feature-img: "img/carropendulo.PNG"
 comments: true
 ---
 
-# Modelado matemático y simulación de sistema carro-pendulo
-
 ## Problema
 
 Dado el sistema de la siguiente figura:
