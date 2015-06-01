@@ -9,7 +9,7 @@ comments: true
 
 Esta página es tan solo una referencia para encotrar recursos de la clase de Dinñamica del Robot.
 
-El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-dinamica-robot). En el encontrarás las prácticas a desarrollar durante el cuatrimestre.
+El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-dinamica-robot). En el encontrarás las prácticas a desarrollar durante el cuatrimestre. O bien, todos los archivos comprimidos [aquí](https://github.com/robblack007/clase-dinamica-robot/archive/v0.2.zip).
 
 Las sesiones de laboratorio para prácticas realizadas son:
 
