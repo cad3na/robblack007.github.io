@@ -7,19 +7,19 @@ feature-img: img/file.png
 comments: true
 ---
 
-Esta página es tan solo una referencia para encotrar recursos de la clase de Dinñamica del Robot.
+Esta página es tan solo una referencia para encotrar recursos de la clase de Dinamica del Robot.
 
 El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-dinamica-robot). En el encontrarás las prácticas a desarrollar durante el cuatrimestre. O bien, todos los archivos comprimidos [aquí](https://github.com/robblack007/clase-dinamica-robot/archive/v0.2.zip).
 
 Las sesiones de laboratorio para prácticas realizadas son:
 
 1. Introducción a IPython/Jupyter - Lunes 25 de mayo
-
-Las sesiones de laboratorio para prácticas por realizar son:
-
 2. Solución a ecuaciones diferenciales - Lunes 1 de junio
 3. Visualización de sistemas mecánicos - Lunes 8 de junio
 4. Conclusión de Practicas - Lunes 15 de junio
+
+Las sesiones de laboratorio para prácticas por realizar son:
+
 5. Movimientos de cuerpos rígidos - Lunes 13 de julio
 6. Modelado de Robots - Lunes 20 de julio
 7. Control de Robots - Lunes 27 de julio
