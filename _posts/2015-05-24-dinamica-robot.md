@@ -17,12 +17,11 @@ Las sesiones de laboratorio para prácticas realizadas son:
 2. Solución a ecuaciones diferenciales - Lunes 1 de junio
 3. Visualización de sistemas mecánicos - Lunes 8 de junio
 4. Conclusión de Practicas - Lunes 15 de junio
+5. Movimientos de cuerpos rígidos - Lunes 13 de julio
 
 Las sesiones de laboratorio para prácticas por realizar son:
 
-5. Movimientos de cuerpos rígidos - Lunes 13 de julio
-6. Modelado de Robots - Lunes 20 de julio
-7. Control de Robots - Lunes 27 de julio
-8. Conclusión de Prácticas - Lunes 3 de agosto
+6. Modelado de Robots - Lunes 3 de agosto
+7. Control de Robots - Lunes 10 de agosto
 
 La entrega de prácticas se hará una clase después de la conclusión de prácticas.
