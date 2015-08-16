@@ -7,7 +7,7 @@ feature-img: img/file.png
 comments: true
 ---
 
-Esta página es tan solo una referencia para encotrar recursos de la clase de Dinámica del Robot.
+Esta página es tan solo una referencia para encontrar recursos de la clase de Dinámica del Robot.
 
 El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-dinamica-robot). En el encontrarás las prácticas a desarrollar durante el cuatrimestre. O bien, todos los archivos comprimidos [aquí](https://github.com/robblack007/clase-dinamica-robot/archive/v0.6.zip).
 
@@ -19,9 +19,8 @@ Las sesiones de laboratorio para prácticas realizadas son:
 4. Conclusión de Practicas - Lunes 15 de junio
 5. Movimientos de cuerpos rígidos - Lunes 13 de julio
 6. Modelado de Robots - Lunes 3 de agosto
+7. Conclusión de Practicas - Lunes 10 de agosto
 
 Las sesiones de laboratorio para prácticas por realizar son:
-
-7. Conclusión de Practicas - Lunes 10 de agosto
 
 La entrega de prácticas se hará una clase después de la conclusión de prácticas.
