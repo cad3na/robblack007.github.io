@@ -3,7 +3,7 @@ title: Dinámica del Robot Ciclo 15-3
 layout: post
 category: articles
 tags: [clases, practicas]
-feature-img: img/file.png
+feature-img: img/carropendulo.png
 comments: true
 ---
 
