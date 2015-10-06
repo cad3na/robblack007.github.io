@@ -9,12 +9,15 @@ comments: true
 
 Esta página es tan solo una referencia para encontrar recursos de la clase de Dinámica del Robot.
 
-El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-dinamica-robot). En el encontrarás las prácticas a desarrollar durante el cuatrimestre, asi como instrucciones para poder instalar el software necesario para ejecutar estas prácticas. Tambien puedes encontras todos los archivos comprimidos [aquí](https://github.com/robblack007/clase-dinamica-robot/archive/v0.6.zip).
+El repositorio de la clase esta [aquí](https://github.com/robblack007/clase-dinamica-robot). En el encontrarás las prácticas a desarrollar durante el cuatrimestre, asi como instrucciones para poder instalar el software necesario para ejecutar estas prácticas. Tambien puedes encontras todos los archivos comprimidos [aquí](https://github.com/robblack007/clase-dinamica-robot/archive/v0.7.zip).
 
-Las sesiones de laboratorio para prácticas por realizar son:
+Las sesiones de laboratorio ya realizadas son:
 
 1. Introducción a Jupyter - Lunes 21 de septiembre
 2. Solución a ecuaciones diferenciales - Lunes 28 de septiembre
+
+Las sesiones de laboratorio para prácticas por realizar son:
+
 3. Visualización de sistemas mecánicos - Lunes 5 de octubre
 4. Conclusión de Practicas - Lunes 12 de octubre
 5. Movimientos de cuerpos rígidos - Lunes 9 de noviembre
